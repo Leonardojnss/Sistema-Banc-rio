@@ -1,0 +1,7 @@
+# Arquivo .gitignore
+
+# Ignorar a pasta de cache do Python
+__pycache__/
+
+# Ignorar o arquivo de configuração com a senha
+config.py
